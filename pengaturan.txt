@@ -15,7 +15,7 @@ pkg install git
 
 git clone https://github.com/nhk46/nhk46
 
-cd multi-bruteforce-facebook
+cd nhk46
 
 ls
 
@@ -55,7 +55,7 @@ echo
 
 echo
 
-cowsay  -f  eyes SELAMAT DATANG NAMAMU | lolcat
+cowsay  -f  eyes NAMAMU | lolcat
 
 echo
 
@@ -79,7 +79,7 @@ figlet Khenzl | lolcat
 
 date | lolcat
 
-cowsay -f web WELCOME BACK Mr.Khenzl | lolcat
+cowsay -f web NAMAMU | lolcat
 
 neofetch
 
