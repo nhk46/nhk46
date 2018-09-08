@@ -75,7 +75,7 @@ ATAU
 
 clear
 
-figlet Khenzl | lolcat
+figlet NAMAMU | lolcat
 
 date | lolcat
 
