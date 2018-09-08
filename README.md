@@ -38,7 +38,7 @@ git clone < repository yang akan di gunakan >
 
 contoh penggunaan perintah "git clone":
 
-$ git clone https://github.com/bantenprov/advancetrust.git $ cd advancetrust/
+$ git clone https://github.com/nhk46/nhk46.git $ cd advancetrust/
 
 git pull
 
@@ -100,11 +100,11 @@ lalu jalankan perintah ini:
 
 git clone < url clone>
 
-$ git clone https://github.com/feripratama/noncontrib.git
+$ git clone https://github.com/nhk46/nhk46.git
 
 setelah itu pindah ke folder / directory yang telah di clone
 
-$ cd noncontrib
+$ cd nhk46
 
 setelah di dalam directory noncontrib (sesuaikan dengan directory yang ada)
 
